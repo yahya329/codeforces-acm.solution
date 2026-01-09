@@ -20,8 +20,19 @@ void WaterMelon()
 		cout << "NO";
 }
 
+void MoneyMoneyMoney()
+{
+	long long n, x, y;
+
+	cin >> n >> x >> y;
+	
+	cout << n * (y - x);
+}
+
 int main()
 {
 	//WaterMelon();
+	//MoneyMoneyMoney();
+
 }
 
